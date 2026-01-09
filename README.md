@@ -45,9 +45,9 @@ The main analysis can be reproduced by running the Jupyter notebooks in the `not
 
 ## Citation
 
-If you use this code in your research, please cite our article (currently under review):
+If you use this code in your research, please cite our article:
 
-> Titensor, S., Ebbert, J., Della Corte, K., & Della Corte, D. (under review). *Estimating Area Under the Curve from Graph-Derived Summary Data: A Systematic Comparison of Standard and Monte Carlo Approaches*.
+> Titensor, Sean, Joshua Ebbert, Karen Della Corte, and Dennis Della Corte. "Estimating area under the curve from graph-derived summary data: a systematic comparison of standard and Monte Carlo approaches." BMC Medical Research Methodology 25, no. 1 (2025): 197.
 
 ## License
 
